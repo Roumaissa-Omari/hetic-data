@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/hetic-data-main.iml" filepath="$PROJECT_DIR$/.idea/hetic-data-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hetic-data.iml" filepath="$PROJECT_DIR$/.idea/hetic-data.iml" />
     </modules>
   </component>
 </project>
